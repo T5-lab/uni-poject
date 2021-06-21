@@ -1,0 +1,30 @@
+C:\Users\T5\source\repos\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+C:\Users\T5\source\repos\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+C:\Users\T5\source\repos\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+C:\Users\T5\source\repos\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+C:\Users\T5\source\repos\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+C:\Users\T5\source\repos\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+C:\Users\T5\source\repos\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csprojAssemblyReference.cache
+C:\Users\T5\source\repos\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Form1.resources
+C:\Users\T5\source\repos\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.GenerateResource.cache
+C:\Users\T5\source\repos\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+C:\Users\T5\source\repos\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+C:\Users\T5\source\repos\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\T5\source\repos\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+C:\Users\T5\source\repos\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+C:\Users\T5\source\repos\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\obj\Debug\netcoreapp3.1\Final Project.csprojAssemblyReference.cache
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\obj\Debug\netcoreapp3.1\Final_Project.Form1.resources
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.GenerateResource.cache
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+C:\Users\T5\source\repos\mohammad_khorami_99125170\mohammad_khorami_99125170\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
